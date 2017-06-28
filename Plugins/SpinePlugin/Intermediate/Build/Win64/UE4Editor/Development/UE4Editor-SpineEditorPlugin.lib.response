@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SpineEditorPlugin.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Users\user\Downloads\spine-runtimes-3.6-beta (1)\spine-runtimes-3.6-beta\spine-ue4\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.cpp.obj"
+"C:\Users\user\Downloads\spine-runtimes-3.6-beta (1)\spine-runtimes-3.6-beta\spine-ue4\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\SpineEditorPlugin.generated.cpp.obj"
+"C:\Program Files (x86)\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\PCLaunch.rc.res"
+"C:\Program Files (x86)\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\user\Downloads\spine-runtimes-3.6-beta (1)\spine-runtimes-3.6-beta\spine-ue4\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-SpineEditorPlugin.lib"
