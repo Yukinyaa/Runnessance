@@ -23,11 +23,11 @@
 /wd4838
 /w44668
 /I D:\UE_4.15\Engine\Source
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpineEditorPlugin\Private
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpineEditorPlugin\Public
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SpineEditorPlugin
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpineEditorPlugin
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpineEditorPlugin\Private
+/I D:\runnaissance\Plugins\SpinePlugin\Source
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpineEditorPlugin\Public
+/I D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SpineEditorPlugin
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpineEditorPlugin
 /I D:\UE_4.15\Engine\Source\Runtime\Core\Public
 /I D:\UE_4.15\Engine\Source\Runtime\Core\Public\Internationalization
 /I D:\UE_4.15\Engine\Source\Runtime\Core\Public\Async
@@ -305,14 +305,14 @@
 /I D:\UE_4.15\Engine\Source\Editor\Kismet
 /I D:\UE_4.15\Engine\Source\Runtime\NetworkReplayStreaming\NetworkReplayStreaming\Public
 /I D:\UE_4.15\Engine\Source\Runtime\NetworkReplayStreaming\NetworkReplayStreaming
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include\spine
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src\spine
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SpinePlugin
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include\spine
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src\spine
+/I D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SpinePlugin
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin
 /I D:\UE_4.15\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public
 /I D:\UE_4.15\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent
 /I D:\UE_4.15\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent
@@ -438,8 +438,8 @@
 /DSPINEPLUGIN_API=DLLIMPORT
 /DPROCEDURALMESHCOMPONENT_API=DLLIMPORT
 /DASSETTOOLS_API=
-"C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.cpp"
-/Fo"C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.cpp.obj"
+"D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.cpp"
+/Fo"D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpineEditorPlugin\Module.SpineEditorPlugin.cpp.obj"
 /TP
 /GR-
 /W4

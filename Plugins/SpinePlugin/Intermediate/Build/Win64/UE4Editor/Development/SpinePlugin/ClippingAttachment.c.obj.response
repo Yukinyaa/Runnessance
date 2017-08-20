@@ -21,17 +21,17 @@
 /wd4838
 /w44668
 /I D:\UE_4.15\Engine\Source
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Private
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include\spine
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src\spine
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SpinePlugin
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Private
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include
+/I D:\runnaissance\Plugins\SpinePlugin\Source
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include\spine
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src\spine
+/I D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SpinePlugin
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin
 /I D:\UE_4.15\Engine\Source\Runtime\Core\Public
 /I D:\UE_4.15\Engine\Source\Runtime\Core\Public\Internationalization
 /I D:\UE_4.15\Engine\Source\Runtime\Core\Public\Async
@@ -430,7 +430,7 @@
 /DKISMET_API=DLLIMPORT
 /DNETWORKREPLAYSTREAMING_API=
 /DPROCEDURALMESHCOMPONENT_API=DLLIMPORT
-"C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src\spine\ClippingAttachment.c"
-/Fo"C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\ClippingAttachment.c.obj"
+"D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src\spine\ClippingAttachment.c"
+/Fo"D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\ClippingAttachment.c.obj"
 /TC
 /W0

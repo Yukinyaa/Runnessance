@@ -20,17 +20,17 @@
 /wd4838
 /w44668
 /I D:\UE_4.15\Engine\Source
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Private
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include\spine
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src\spine
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SpinePlugin
-/I C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Private
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include
+/I D:\runnaissance\Plugins\SpinePlugin\Source
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\include\spine
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Public\spine-c\src\spine
+/I D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SpinePlugin
+/I D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin
 /I D:\UE_4.15\Engine\Source\Runtime\Core\Public
 /I D:\UE_4.15\Engine\Source\Runtime\Core\Public\Internationalization
 /I D:\UE_4.15\Engine\Source\Runtime\Core\Public\Async
@@ -311,12 +311,12 @@
 /I D:\UE_4.15\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent\Public
 /I D:\UE_4.15\Engine\Plugins\Runtime\ProceduralMeshComponent\Intermediate\Build\Win64\UE4Editor\Inc\ProceduralMeshComponent
 /I D:\UE_4.15\Engine\Plugins\Runtime\ProceduralMeshComponent\Source\ProceduralMeshComponent
-/FI"C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Private\SpinePluginPrivatePCH.h"
-/Yu"C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Private\SpinePluginPrivatePCH.h"
-/Fp"C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\PCH.SpinePlugin.h.pch"
-"C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SpinePlugin\SpinePlugin.generated.cpp"
-/Fo"C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\SpinePlugin.generated.cpp.obj"
-/Fd"C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\SpinePluginPrivatePCH.h.pdb"
+/FI"D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Private\SpinePluginPrivatePCH.h"
+/Yu"D:\runnaissance\Plugins\SpinePlugin\Source\SpinePlugin\Private\SpinePluginPrivatePCH.h"
+/Fp"D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\PCH.SpinePlugin.h.pch"
+"D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Inc\SpinePlugin\SpinePlugin.generated.cpp"
+/Fo"D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\SpinePlugin.generated.cpp.obj"
+/Fd"D:\runnaissance\Plugins\SpinePlugin\Intermediate\Build\Win64\UE4Editor\Development\SpinePlugin\SpinePluginPrivatePCH.h.pdb"
 /TP
 /GR-
 /W4
