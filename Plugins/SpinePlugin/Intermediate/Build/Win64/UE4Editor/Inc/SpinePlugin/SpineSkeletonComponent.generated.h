@@ -14,7 +14,7 @@ struct FTransform;
 #endif
 #define SPINEPLUGIN_SpineSkeletonComponent_generated_h
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_41_DELEGATE \
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_41_DELEGATE \
 struct _Script_SpinePlugin_eventSpineAfterUpdateWorldTransformDelegate_Parms \
 { \
 	USpineSkeletonComponent* skeleton; \
@@ -27,7 +27,7 @@ static inline void FSpineAfterUpdateWorldTransformDelegate_DelegateWrapper(const
 }
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_40_DELEGATE \
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_40_DELEGATE \
 struct _Script_SpinePlugin_eventSpineBeforeUpdateWorldTransformDelegate_Parms \
 { \
 	USpineSkeletonComponent* skeleton; \
@@ -42,7 +42,7 @@ static inline void FSpineBeforeUpdateWorldTransformDelegate_DelegateWrapper(cons
 
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_RPC_WRAPPERS \
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_RPC_WRAPPERS \
  \
 	DECLARE_FUNCTION(execGetFlipY) \
 	{ \
@@ -149,7 +149,7 @@ static inline void FSpineBeforeUpdateWorldTransformDelegate_DelegateWrapper(cons
 	}
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_RPC_WRAPPERS_NO_PURE_DECLS \
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_RPC_WRAPPERS_NO_PURE_DECLS \
  \
 	DECLARE_FUNCTION(execGetFlipY) \
 	{ \
@@ -256,7 +256,7 @@ static inline void FSpineBeforeUpdateWorldTransformDelegate_DelegateWrapper(cons
 	}
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_INCLASS_NO_PURE_DECLS \
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_INCLASS_NO_PURE_DECLS \
 	private: \
 	static void StaticRegisterNativesUSpineSkeletonComponent(); \
 	friend SPINEPLUGIN_API class UClass* Z_Construct_UClass_USpineSkeletonComponent(); \
@@ -267,7 +267,7 @@ static inline void FSpineBeforeUpdateWorldTransformDelegate_DelegateWrapper(cons
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_INCLASS \
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_INCLASS \
 	private: \
 	static void StaticRegisterNativesUSpineSkeletonComponent(); \
 	friend SPINEPLUGIN_API class UClass* Z_Construct_UClass_USpineSkeletonComponent(); \
@@ -278,7 +278,7 @@ static inline void FSpineBeforeUpdateWorldTransformDelegate_DelegateWrapper(cons
 	enum {IsIntrinsic=COMPILED_IN_INTRINSIC};
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_STANDARD_CONSTRUCTORS \
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_STANDARD_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API USpineSkeletonComponent(const FObjectInitializer& ObjectInitializer); \
 	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(USpineSkeletonComponent) \
@@ -291,7 +291,7 @@ private: \
 public:
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_ENHANCED_CONSTRUCTORS \
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	NO_API USpineSkeletonComponent(USpineSkeletonComponent&&); \
@@ -302,32 +302,32 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(USpineSkeletonComponent); \
 	DEFINE_DEFAULT_CONSTRUCTOR_CALL(USpineSkeletonComponent)
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_PRIVATE_PROPERTY_OFFSET
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_44_PROLOG
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_GENERATED_BODY_LEGACY \
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_PRIVATE_PROPERTY_OFFSET
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_44_PROLOG
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_GENERATED_BODY_LEGACY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_PRIVATE_PROPERTY_OFFSET \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_RPC_WRAPPERS \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_INCLASS \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_STANDARD_CONSTRUCTORS \
+	Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_PRIVATE_PROPERTY_OFFSET \
+	Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_RPC_WRAPPERS \
+	Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_INCLASS \
+	Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_STANDARD_CONSTRUCTORS \
 public: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
-#define spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_GENERATED_BODY \
+#define Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_PRIVATE_PROPERTY_OFFSET \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_RPC_WRAPPERS_NO_PURE_DECLS \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_INCLASS_NO_PURE_DECLS \
-	spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_ENHANCED_CONSTRUCTORS \
+	Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_PRIVATE_PROPERTY_OFFSET \
+	Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_RPC_WRAPPERS_NO_PURE_DECLS \
+	Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_INCLASS_NO_PURE_DECLS \
+	Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h_46_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID spine_ue4_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h
+#define CURRENT_FILE_ID Runnessance_Plugins_SpinePlugin_Source_SpinePlugin_Public_SpineSkeletonComponent_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

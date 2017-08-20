@@ -1,4 +1,4 @@
-// PCH for C:\Users\user\Downloads\spine-runtimes-3.6-beta (1)\spine-runtimes-3.6-beta\spine-ue4\Plugins\SpinePlugin\Source\SpinePlugin\Private\SpinePluginPrivatePCH.h
+// PCH for C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Private\SpinePluginPrivatePCH.h
 #define UE_EDITOR 1
 #define IS_PROGRAM 0
 #define WITH_DEV_AUTOMATION_TESTS 1
@@ -117,4 +117,4 @@
 #define KISMET_API DLLIMPORT
 #define NETWORKREPLAYSTREAMING_API 
 #define PROCEDURALMESHCOMPONENT_API DLLIMPORT
-#include "C:\Users\user\Downloads\spine-runtimes-3.6-beta (1)\spine-runtimes-3.6-beta\spine-ue4\Plugins\SpinePlugin\Source\SpinePlugin\Private\SpinePluginPrivatePCH.h"
+#include "C:\Users\CIEN_DESKTOP1\Documents\Runnessance\Plugins\SpinePlugin\Source\SpinePlugin\Private\SpinePluginPrivatePCH.h"
